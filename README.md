@@ -1,0 +1,2 @@
+# GuidGenerator
+Generates Guid. 
