@@ -1,2 +1,2 @@
 # GuidGenerator
-Generates Guid. 
+Guid generating utility.
